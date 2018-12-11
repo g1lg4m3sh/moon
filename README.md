@@ -1,5 +1,5 @@
 # moon
-
+discrete ops task @Moon Active
 ### Instructions:
 - Clone repository `git clone https://github.com/g1lg4m3sh/moon.git`
 - cd to directory `cd moon/`
