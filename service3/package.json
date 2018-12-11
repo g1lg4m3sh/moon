@@ -1,0 +1,14 @@
+{
+  "name": "service3",
+  "version": "1.0.0",
+  "description": "service3",
+  "main": "service3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
