@@ -10,5 +10,5 @@ sudo chkconfig docker on
 sudo yum install git -y
 git clone https://github.com/g1lg4m3sh/moon.git
 cd moon
-docker-compose up
+docker-compose up -d
 EOF
